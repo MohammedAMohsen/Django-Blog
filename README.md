@@ -2,6 +2,52 @@
 
 A modern Django blog web application featuring user authentication, profile management, post CRUD operations, image uploads, and password reset functionality.
 
+---
+
+# Application Preview
+
+## Home Page
+
+![Home Page](README_IMAGES/home-page.png)
+
+---
+
+## Post Page
+
+![Password Reset](README_IMAGES/post-page.png)
+
+---
+
+## User Profile-Setting
+
+![Profile Page](README_IMAGES/profile-page.png)
+
+---
+
+## User Profile-Post
+
+![Room Page](README_IMAGES/profile-user.png)
+
+---
+
+## Create / Update Post
+
+![Room Form](README_IMAGES/post-form.png)
+
+---
+
+## Password Reset
+
+![Password Reset](README_IMAGES/password-reset.png)
+
+---
+
+## And Page Login & Sign Up
+
+...
+
+---
+
 The project was built while learning Django fundamentals and focuses on understanding:
 - Django ORM
 - Authentication System
